@@ -44,6 +44,7 @@ int checkAnagram(char str1[], char str2[]) {
 int main() {
     char str1[100], str2[100];
 
+    
     // Take input for the first string
     printf("Enter the first string: ");
     scanf("%s", str1);
